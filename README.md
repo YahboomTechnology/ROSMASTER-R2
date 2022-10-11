@@ -1,4 +1,4 @@
-# ROSMASTER X3 PLUS ROS Robot Python Programming for Jetson NANO 4GB/Xavier NX/TX2 NX/RaspberryPi 4B
+# ROSMASTER R2 ROS Robot Python Programming for Jetson NANO 4GB/Xavier NX/TX2 NX/RaspberryPi 4B
 ![](https://github.com/YahboomTechnology/ROSMASTER-R2/blob/main/R2.jpg)
 # Introduction
 ROSMASTER R2 is a mobile car with Ackerman steering structure developed based on ROS robot operating system. It supports Jetson NANO, TX2 NX, Jetson Xavier NX and Raspberry Pi 4B as main control boards. R2 is equipped with high-performance hardware configurations such as laser radar, depth camera, voice interaction module, 520 motor racing rubber tire, which can realize robot mapping navigation, obstacle avoidance, automatic driving, human feature action recognition, voice interaction control and other functions. It also supports mobile phone APP, wireless handle, ROS operating system, computer keyboard and other remote control methods. And we will provide 105 lesson teaching videos and many source codes for users' reference.
