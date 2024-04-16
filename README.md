@@ -1,14 +1,14 @@
-# ROSMASTER R2 ROS Robot Python Programming for Jetson NANO 4GB/Xavier NX/TX2 NX/RaspberryPi 4B
+# ROSMASTER R2 ROS Robot Python Programming for Jetson NANO 4GB/Orin NX/Orin NAN/RaspberryPi 4B
 ![](https://github.com/YahboomTechnology/ROSMASTER-R2/blob/main/R2.jpg)
 # Introduction
-ROSMASTER R2 is a mobile car with Ackerman steering structure developed based on ROS robot operating system. It supports Jetson NANO, TX2 NX, Jetson Xavier NX and Raspberry Pi 4B as main control boards. R2 is equipped with high-performance hardware configurations such as laser radar, depth camera, voice interaction module, 520 motor racing rubber tire, which can realize robot mapping navigation, obstacle avoidance, automatic driving, human feature action recognition, voice interaction control and other functions. It also supports mobile phone APP, wireless handle, ROS operating system, computer keyboard and other remote control methods. And we will provide 105 lesson teaching videos and many source codes for users' reference.
+ROSMASTER R2 is a mobile car with Ackerman steering structure developed based on ROS robot operating system. It supports Jetson NANO, ORIN NX, ORIN NANO and Raspberry Pi 4B as main control boards. R2 is equipped with high-performance hardware configurations such as laser radar, depth camera, voice interaction module, 520 motor racing rubber tire, which can realize robot mapping navigation, obstacle avoidance, automatic driving, human feature action recognition, voice interaction control and other functions. It also supports mobile phone APP, wireless handle, ROS operating system, computer keyboard and other remote control methods. And we will provide 105 lesson teaching videos and many source codes for users' reference.
 # Features
 * Professional Ackerman steering structure
 1) One HQ metal steering gear and two 520 motors plus special aluminum alloy brackets.
 2) Professional racing tires are used and anti-collision strips are installed in the front of the car body, which is suitable for robot car competitions.
 
 * Professional hardware configuration
-1) The multi-functional expansion board is compatible with four motherboards: Jetson NANO, TX2 NX, Jetson Xavier NX and Raspberry Pi 4B.
+1) The multi-functional expansion board is compatible with four motherboards: Jetson NANO, Jetson Orin NANO, Jetson Orin NX and Raspberry Pi 4B.
 2) Various accessories such as lidar (SLAM A1/YDLIDAR 4ROS), depth camera, voice interaction module and 7-inch display screen can be selected by users.
 
 * Based on (ROS) robot operating system
@@ -30,8 +30,6 @@ If you have any problem when using our robot after checking the tutorial, please
 https://www.facebook.com/yahboomcar/ 
   
 https://www.facebook.com/yahboomtech
-### WhatsApp:
-+86 18682378128
 
 ### Technical support email: 
 support@yahboom.com
