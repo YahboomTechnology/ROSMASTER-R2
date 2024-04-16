@@ -11,7 +11,7 @@ ROSMASTER R2 is a mobile car with Ackerman steering structure developed based on
 1) The multi-functional expansion board is compatible with four motherboards: Jetson NANO, Jetson Orin NANO, Jetson Orin NX and Raspberry Pi 4B.
 2) Various accessories such as lidar (SLAM A1/YDLIDAR 4ROS), depth camera, voice interaction module and 7-inch display screen can be selected by users.
 
-* Based on (ROS) robot operating system
+* Based on (ROS2) robot operating system
 1) Python programming.
 2) The MediaPipe development framework is used to complete the hand and face detection, 3D detection and recognition functions.
 3) It can easily obtain depth image data and point cloud images, complete depth learning and use algorithms to achieve some AI functions.
