@@ -1,14 +1,14 @@
-# ROSMASTER R2 ROS Robot Python Programming for Jetson NANO 4GB/Orin NX/Orin NANO/RaspberryPi 5
+# ROSMASTER R2 ROS Robot Python Programming for Jetson NANO 4GB/Orin NX SUPER/Orin NANO SUPER/RaspberryPi 5
 ![](https://github.com/YahboomTechnology/ROSMASTER-R2/blob/main/R2.jpg)
 # Introduction
-ROSMASTER R2 is a mobile car with Ackerman steering structure developed based on ROS robot operating system. It supports Jetson NANO, ORIN NX, ORIN NANO and Raspberry Pi 5 as main control boards. R2 is equipped with high-performance hardware configurations such as laser radar, depth camera, voice interaction module, 520 motor racing rubber tire, which can realize robot mapping navigation, obstacle avoidance, automatic driving, human feature action recognition, voice interaction control and other functions. It also supports mobile phone APP, wireless handle, ROS operating system, computer keyboard and other remote control methods. And we will provide 105 lesson teaching videos and many source codes for users' reference.
+ROSMASTER R2 is a mobile car with Ackerman steering structure developed based on ROS robot operating system. It supports Jetson NANO, ORIN NX SUPER, ORIN NANO SUPER and Raspberry Pi 5 as main control boards. R2 is equipped with high-performance hardware configurations such as laser radar, depth camera, voice interaction module, 520 motor racing rubber tire, which can realize robot mapping navigation, obstacle avoidance, automatic driving, human feature action recognition, voice interaction control and other functions. It also supports mobile phone APP, wireless handle, ROS operating system, computer keyboard and other remote control methods. And we will provide 105 lesson teaching videos and many source codes for users' reference.
 # Features
 * Professional Ackerman steering structure
 1) One HQ metal steering gear and two 520 motors plus special aluminum alloy brackets.
 2) Professional racing tires are used and anti-collision strips are installed in the front of the car body, which is suitable for robot car competitions.
 
 * Professional hardware configuration
-1) The multi-functional expansion board is compatible with four motherboards: Jetson NANO, Jetson Orin NANO, Jetson Orin NX and Raspberry Pi 5.
+1) The multi-functional expansion board is compatible with four motherboards: Jetson NANO, Jetson Orin NANO SUPER, Jetson Orin NX SUPER and Raspberry Pi 5.
 2) Various accessories such as lidar (SLAM A1/YDLIDAR 4ROS), depth camera, voice interaction module and 7-inch display screen can be selected by users.
 
 * Based on (ROS2) robot operating system
@@ -17,7 +17,7 @@ ROSMASTER R2 is a mobile car with Ackerman steering structure developed based on
 3) It can easily obtain depth image data and point cloud images, complete depth learning and use algorithms to achieve some AI functions.
 
 * Multiple functions and remote control methods
-1) R2 robot can realize 3D visual mapping navigation, radar obstacle avoidance, visual recognition, target tracking, voice recognition interaction, Autopilot and other functions.
+1) R2 robot can realize 3D visual mapping navigation, lidar obstacle avoidance, visual recognition, target tracking, voice recognition interaction, Autopilot and other functions.
 2) Support mobile phone APP, wireless handle, ROS operating system, computer keyboard, jupyterLab web page programming control.
 
 # Required Best Buy Links
